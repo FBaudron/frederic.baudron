@@ -14,11 +14,12 @@ authors:
 - Stephan M. Haefele
 tags:
 - Gender
+- Digital agronomy
 - Farming system research
 categories: []
 date: '2021-08-23'
 lastmod: 2021-08-23T22:23:31+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image

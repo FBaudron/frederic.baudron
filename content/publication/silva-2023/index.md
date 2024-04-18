@@ -15,11 +15,12 @@ authors:
 - Mtendere Mphatso
 - Christian Thierfelder
 tags:
+- Digital agronomy
 - Farming system analysis
 categories: []
 date: '2023-02-21'
 lastmod: 2023-02-21T22:23:20+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image

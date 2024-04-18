@@ -11,11 +11,12 @@ authors:
 - Robert J. Hijmans
 tags:
 - Soil health
+- Digital agronomy
 - Farming system analysis
 categories: []
 date: '2023-02-21'
 lastmod: 2023-03-02T22:23:20+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image

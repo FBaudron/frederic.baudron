@@ -14,6 +14,7 @@ authors:
 - Pablo A Tittonell
 - F M Stefanini
 tags:
+- Digital agronomy
 - Farming system research
 categories: []
 date: '2014-01-01'

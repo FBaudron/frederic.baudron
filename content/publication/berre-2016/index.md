@@ -13,6 +13,7 @@ authors:
 - Santiago Lopez-Ridaura
 - Peter Craufurd
 tags:
+- Digital agronomy
 - Farming system research
 categories: []
 date: '2016-01-01'
