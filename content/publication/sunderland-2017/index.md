@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A methodological approach for assessing cross-site landscape change; Understanding
-  socio-ecological systems
+title: A methodological approach for assessing cross-site landscape change; Understanding socio-ecological systems
 subtitle: ''
 summary: ''
 authors:
@@ -29,6 +28,8 @@ authors:
 tags:
 - Landscape
 - Forest
+- Bioiversity
+- Farming system research
 categories: []
 date: '2017-01-01'
 lastmod: 2021-01-03T22:24:04+02:00
