@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Modelling climate change impacts on maize yields under low nitrogen input conditions
-  in sub-Saharan Africa
+title: The input reduction principle of agroecology is wrong when it comes to mineral fertilizer use in sub-Saharan Africa
 subtitle: ''
 summary: ''
 authors:
