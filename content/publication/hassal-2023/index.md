@@ -39,15 +39,7 @@ projects: []
 publishDate: '2023-07-14T20:23:30.727502Z'
 publication_types:
 - '2'
-abstract: "Farm typologies are often used to reduce the complexity in categorising diverse farming systems, particularly in
-sub-Saharan Africa. The resulting typologies can then be used in multiple ways including designing efficient
-sampling schemes that capture the diversity in smallholder farms, prescribing the selection of certain farm types
-to which interventions can be targeted or upscaled, or to give context into derived relationships. However, the
-construction of farm typologies consists of many subjective decisions that are not always obvious or evident to
-the end-user. By developing a generalized framework for constructing farm typologies, we clarify where these
-subjective decisions are and quantify the impact they have on the resulting typologies. Further, this framework
-has been encapsulated in the open source RShiny App: TypologyGenerator to enable users to focus on the decisions
-and not the underlying implementation."
+abstract: "Farm typologies are often used to reduce the complexity in categorising diverse farming systems, particularly in sub-Saharan Africa. The resulting typologies can then be used in multiple ways including designing efficient sampling schemes that capture the diversity in smallholder farms, prescribing the selection of certain farm types to which interventions can be targeted or upscaled, or to give context into derived relationships. However, the construction of farm typologies consists of many subjective decisions that are not always obvious or evident to the end-user. By developing a generalized framework for constructing farm typologies, we clarify where these subjective decisions are and quantify the impact they have on the resulting typologies. Further, this framework has been encapsulated in the open source RShiny App: TypologyGenerator to enable users to focus on the decisions and not the underlying implementation."
 publication: '*Computers and Electronics in Agriculture*'
 doi: 10.1016/j.compag.2023.108074
 ---

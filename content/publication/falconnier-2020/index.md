@@ -15,7 +15,7 @@ authors:
 - Alex C. Ruane
 - Claas Nendel
 - Anthony M. Whitbread
-- éric Justes
+- Eric Justes
 - Lajpat R. Ahuja
 - Folorunso M. Akinseye
 - Isaac N. Alou
