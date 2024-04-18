@@ -2,7 +2,7 @@
 date: "2022-01-01T00:00:00Z"
 external_link: "https://knowledgeplatform.hellotractor.com/"
 tags:
-- On-going
+- Past
 title: ACIAR HAFIZ
 url_code: ""
 url_pdf: ""

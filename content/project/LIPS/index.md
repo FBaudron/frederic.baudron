@@ -2,7 +2,7 @@
 date: "2020-01-01T00:00:00Z"
 external_link: "https://europa.eu/capacity4dev/desira/wiki/lips-zimbabwe"
 tags:
-- On-going
+- Past
 title: EU LIPS
 url_code: ""
 url_pdf: ""

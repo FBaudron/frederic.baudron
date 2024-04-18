@@ -2,7 +2,7 @@
 date: "2019-08-01T00:00:00Z"
 external_link: ""
 tags:
-- On-going
+- Past
 title: EU SIFAZ
 url_code: ""
 url_pdf: ""
