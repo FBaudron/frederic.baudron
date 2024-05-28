@@ -11,7 +11,7 @@ authors:
 - Robert J. Hijmans
 tags:
 - Soil health
-- Digital agronomy
+- Agronomy-at-scale
 - Farming system analysis
 categories: []
 date: '2023-02-21'

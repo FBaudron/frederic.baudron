@@ -14,7 +14,7 @@ authors:
 - Stephan M. Haefele
 tags:
 - Gender
-- Digital agronomy
+- Agronomy-at-scale
 - Farming system research
 categories: []
 date: '2021-08-23'

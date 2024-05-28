@@ -11,7 +11,7 @@ authors:
 - Innocent Habarurema
 - João Vasco Silva
 tags:
-- Digital agronomy
+- Agronomy-at-scale
 - Farming system research
 - Wheat in Africa
 categories: []

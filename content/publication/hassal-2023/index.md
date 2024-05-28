@@ -14,7 +14,7 @@ authors:
 - Isaiah Nyagumbo
 - Stephan M. Haefele
 tags:
-- Digital agronomy
+- Agronomy-at-scale
 - Farming system research
 categories: []
 date: '2023-07-14'

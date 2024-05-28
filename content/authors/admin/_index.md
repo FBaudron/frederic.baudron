@@ -23,7 +23,7 @@ interests:
 - Agriculture-biodiversity nexus
 - Appropriate mechanization
 - Participatory innovation development
-- Digital agronomy
+- Agronomy-at-scale
 - Roots and tubers
 
 # Education to show in About widget
