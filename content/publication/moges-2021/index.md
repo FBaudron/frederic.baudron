@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Spatial farming systems diversity and micronutrient intakes of
-rural children in Ethiopia' 
+title: 'Spatial farming systems diversity and micronutrient intakes of rural children in Ethiopia' 
 subtitle: ''
 summary: ''
 authors:
@@ -12,8 +11,7 @@ authors:
 - Roseline Remans
 - Frédéric Baudron
 - Tefera Belachew
-- Jeroen C. J.
-- Groot
+- Jeroen C. J. Groot
 tags:
 - Nutrition
 - Farming system analysis
