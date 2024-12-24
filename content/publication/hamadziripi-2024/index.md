@@ -52,6 +52,6 @@ and the types of households recycling hybrid maize seed over a 3-year period wer
 it was not continually practiced across years. Yield gains associated with FNP were retained under recycling practices, albeit reduced. The greatest yield benefit was when seed from only non-pollen-producing plants was used. Yield gains were
 associated with longer ears and more kernels per ear. While recycling hybrid maize seed reduces potential yields due to inbreeding depression, in the years when farmers cannot afford to plant hybrid maize only, recycling non-pollen-producing hybrid maize seed conferred a yield benefit of
 116 kg ha-1."
-publication: '*Plants, People, Planet*'
+publication: '*Plants People Planet*'
 doi: 10.1002/ppp3.10590
 ---
