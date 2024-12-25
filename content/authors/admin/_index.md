@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: frederic.baudron@cirad.fr
+  link: mailto:frederic.baudron@cirad.fr
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/fbaudron
