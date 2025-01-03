@@ -72,5 +72,5 @@ Frédéric Baudron is a Senior Scientist working for the French Agricultural Res
 
 Trained as a tropical agronomist in France, he specialized as a livestock scientist and started his career with a focus on the interface between people (mainly farmers) and wildlife in Zimbabwe (and neighboring countries). He then carried his PhD on plant production systems at the University of Wageningen (The Netherlands).
 
-He has been involved in a number of research projects in Ethiopia, Kenya, Rwanda, Tanzania, Zambia, Malawi and Zimbabwe. He has 23 years of experience developing solutions with and for smallholders in East and Southern Africa.
+He has been involved in a number of research projects in Congo, Ethiopia, Kenya, Rwanda, Tanzania, Zambia, Malawi and Zimbabwe. He has 23 years of experience developing solutions with and for smallholders in sub-Saharan Africa.
 
