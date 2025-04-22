@@ -29,6 +29,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: HDR in Life Science
+    institution: Université de Montpellier, France
+    year: 2025
   - course: PhD in Production Ecology and Resource Conservation
     institution: Wageningen University, The Netherlands
     year: 2011
