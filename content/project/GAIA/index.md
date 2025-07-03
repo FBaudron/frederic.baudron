@@ -1,6 +1,6 @@
 ---
 date: "2020-11-01T00:00:00Z"
-external_link: ""
+external_link: "https://www.cimmyt.org/projects/gaia/"
 tags:
 - On-going
 title: BMGF GAIA

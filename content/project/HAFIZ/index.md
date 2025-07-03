@@ -1,6 +1,6 @@
 ---
 date: "2022-01-01T00:00:00Z"
-external_link: "https://knowledgeplatform.hellotractor.com/"
+external_link: "https://www.cimmyt.org/projects/hafiz/"
 tags:
 - Past
 title: ACIAR HAFIZ

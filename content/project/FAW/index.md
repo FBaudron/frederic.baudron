@@ -1,6 +1,6 @@
 ---
 date: "2018-10-01T00:00:00Z"
-external_link: ""
+external_link: "https://www.cimmyt.org/projects/fall-armyworm-r4d-and-management/"
 tags:
 - Past
 title: USAID FAW

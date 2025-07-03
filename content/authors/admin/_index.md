@@ -73,7 +73,7 @@ highlight_name: false
 
 Frédéric Baudron is a Senior Scientist working for the French Agricultural Research Centre for International Development (Cirad), based in Montpellier, France. Prior to this, he was a Principal Scientist working for the International Maize and Wheat Improvement Center (CIMMYT) based first in Addis Ababa, Ethiopia (from 2011 to 2016) and later in Harare, Zimbabwe (from 2016 to 2023).
 
-Trained as a tropical agronomist in France, he specialized as a livestock scientist and started his career with a focus on the interface between people (mainly farmers) and wildlife in Zimbabwe (and neighbouring countries). He then carried his PhD on plant production systems at the University of Wageningen (The Netherlands).
+Trained as a tropical agronomist in France, he specialized as a livestock scientist and started his career with a focus on the interface between people (mainly farmers) and wildlife in Zimbabwe (and neighbouring countries). He then carried his PhD on plant production systems at the University of Wageningen (The Netherlands) and later obtained his Habilitation to Direct Research from the University of Montpellier (France).
 
 He has been involved in a number of research projects in Congo, Ethiopia, Kenya, Rwanda, Tanzania, Zambia, Malawi and Zimbabwe. He has more than 23 years of experience developing solutions with and for smallholders in sub-Saharan Africa.
 

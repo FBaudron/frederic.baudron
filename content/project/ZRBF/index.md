@@ -1,6 +1,6 @@
 ---
 date: "2017-07-01T00:00:00Z"
-external_link: "http://www.zrbf.co.zw/projects/7/program-for-growth-and-resilience-progress"
+external_link: "https://www.undp.org/zimbabwe/publications/zrbf-sustainability-interventions"
 tags:
 - Past
 title: ZRBF PROGRESS
