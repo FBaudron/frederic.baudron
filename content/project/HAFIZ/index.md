@@ -10,4 +10,4 @@ url_slides: ""
 url_video: ""
 ---
 
-The project 'Harnessing Appropriate-scale Farm mechanization In Zimbabwe' (HAFIZ) aims to support investments by the Government and by the private sector in appropriate-scale farm mechanization in Zimbabwe, particularly around mechanized Pfumvudza, and transfer learnings to South Africa. The overall goal of the project is to improve access to mechanization and reduce labor drudgery whilst stimulating the adoption of climate-smart/sustainable intensification technologies (which tends to increase labor demand in a context of low mechanization).
+The project 'Harnessing Appropriate-scale Farm mechanization In Zimbabwe' (HAFIZ) aims to support investments by the Government and by the private sector in appropriate-scale farm mechanization in Zimbabwe, particularly around mechanized Pfumvudza, and transfer learnings to South Africa; the overall goal of the project is to improve access to mechanization and reduce labor drudgery whilst stimulating the adoption of climate-smart/sustainable intensification technologies (which tends to increase labor demand in a context of low mechanization).
