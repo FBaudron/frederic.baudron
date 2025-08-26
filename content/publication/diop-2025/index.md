@@ -1,30 +1,27 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The input reduction principle of agroecology is wrong when it comes to mineral fertilizer use in sub-Saharan Africa
+title: Surface albedo and thermal radiation dynamics under conservation and conventional agriculture in subhumid Zimbabwe
 subtitle: ''
 summary: ''
 authors:
-- Gatien N. Falconnier
+- Souleymane Diop
 - Rémi Cardinael
+- Ronny Lauerwald
+- Morgan Ferlicoq
+- Christian Thierfelder
+- Regis Chikowo
 - Marc Corbeels
-- Frédéric Baudron
-- Pauline Chivenge
-- Antoine Couëdel
-- Aude Ripoche
 - François Affholder
-- Krishna Naudin
-- Emilie Benaillon
-- Leonard Rusinamhodzi
-- Louise Leroux
-- Bernard Vanlauwe
-- Ken E. Giller
+- Frédéric Baudron
+- Eric Ceschia
 tags:
-- Soil health
-- Farming system research
+- Conservation agriculture
+- Climate
+
 categories: []
-date: '2023-09-13'
-lastmod: 2023-09-13T22:23:11+02:00
+date: '2025-08-09'
+lastmod: 2025-08-09T22:23:11+02:00
 featured: false
 draft: false
 
@@ -42,10 +39,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-09-13T20:23:11.333105Z'
+publishDate: '2025-08-09T20:23:11.333105Z'
 publication_types:
 - '2'
-abstract: Can farmers in sub-Saharan Africa (SSA) boost crop yields and improve food availability without using more mineral fertilizer? This question has been at the center of lively debates among the civil society, policy-makers, and in academic editorials. Proponents of the “yes” answer have put forward the “input reduction” principle of agroecology, i.e. by relying on agrobiodiversity, recycling and better efficiency, agroecological practices such as the use of legumes and manure can increase crop productivity without the need for more mineral fertilizer. We reviewed decades of scientific literature on nutrient balances in SSA, biological nitrogen fixation of tropical legumes, manure production and use in smallholder farming systems, and the environmental impact of mineral fertilizer. Our analyses show that more mineral fertilizer is needed in SSA for five reasons; (i) the starting point in SSA is that agricultural production is “agroecological” by default, that is, very low mineral fertilizer use, widespread mixed crop-livestock systems and large crop diversity including legumes, but leading to poor soil fertility as a result of widespread soil nutrient mining, (ii) the nitrogen needs of crops cannot be adequately met solely through biological nitrogen fixation by legumes and recycling of animal manure, (iii) other nutrients like phosphorus and potassium need to be replaced continuously, (iv) mineral fertilizers, if used appropriately, cause little harm to the environment, and (v) reducing the use of mineral fertilizers would hamper productivity gains and contribute indirectly to agricultural expansion and to deforestation. Yet, the agroecological principles directly related to soil fertility—recycling, efficiency, diversity—remain key in improving soil health and nutrient-use efficiency, and are critical to sustaining crop productivity in the long run. We argue for a nuanced position that acknowledges the critical need for more mineral fertilizers in SSA, in combination with the use of agroecological practices and adequate policy support.
-publication: '*Outlook on Agriculture*'
-doi: 10.1177/00307270231199795
+abstract: While conservation agriculture (CA) has been widely evaluated for its biogeochemical effects (e.g soil organic carbon sequestration and greenhouse gas emissions) for climate mitigation, its biogeophysical impacts related to changes in surface albedo remain understudied. This study assessed the biogeophysical effects of CA cropping systems with maize (Zea mays L.) in Zimbabwe. Measurements were conducted continuously over two cropping years at two long-term experiments with contrasting soil characteristics, on an abruptic Lixisol and on a xanthic Ferralsol. The dynamics of surface albedo, longwave radiation, leaf area index, soil moisture and temperature were monitored under three different treatments:conventional tillage (CT, tilled to ~15 cm), no-tillage (NT) and no-tillage with mulch (NTM, 2.5 t DM ha⁻¹). Our results revealed that, on the Ferralsol, NT and NTM significantly (p < 0.05) increased mean annual albedo (0.17) relative to CT (0.16), resulting in a negative instantaneous radiative forcing (iRF) and indicating a net cooling effect. iRF was stronger in 2021/22 (NT:-0.83 ± 0.17 W m-2; NTM:-1.43 ± 0.7 W m-2) than in 2022/23 (NT:-0.43 ± 0.09 W m-2; NTM:-1.03 ± 0.21 W m-2). Conversely, on the Lixisol, while NT increased surface albedo (0.27 vs. CT:0.24), NTM significantly reduced albedo (0.23), causing positive iRF (warming). iRF was -3.34 ± 0.69 W m-2 and -2.78 ± 0.77 W m-2 for NT in the first and second cropping year, respectively, and increased from 1.14 ± 0.21 W -2 (2021/22) to 2.77 ± 0.41 W m-2 (2022/23) under NTM. Overall, our results suggest that the soil background albedo is an important site characteristic that needs to be considered and demonstrates the importance of considering biogeophysical effects when promoting practices of CA for climate change mitigation.
+publication: '*Soil & Tillage Research*'
+doi: 10.1016/j.still.2025.106804
 ---
