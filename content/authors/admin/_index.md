@@ -71,9 +71,12 @@ email: ""
 highlight_name: false
 ---
 
-Frédéric Baudron is a Senior Scientist working for the French Agricultural Research Centre for International Development (Cirad), based in Montpellier, France. Prior to this, he was a Principal Scientist working for the International Maize and Wheat Improvement Center (CIMMYT) based first in Addis Ababa, Ethiopia (from 2011 to 2016) and later in Harare, Zimbabwe (from 2016 to 2023).
+Frédéric Baudron is a Senior Scientist at the French Agricultural Research Centre for International Development (CIRAD), based in Montpellier, France. Prior to this, he was a Principal Scientist at the International Maize and Wheat Improvement Center (CIMMYT), based first in Addis Ababa, Ethiopia (2011–2016), and later in Harare, Zimbabwe (2016–2023).
 
-Trained as a tropical agronomist in France, he specialized as a livestock scientist and started his career with a focus on the interface between people (mainly farmers) and wildlife in Zimbabwe (and neighbouring countries). He then carried his PhD on plant production systems at the University of Wageningen (The Netherlands) and later obtained his Habilitation to Direct Research from the University of Montpellier (France).
+Trained as a tropical agronomist in France, he specialized in livestock science and began his career focusing on the interface between people – mainly farmers – and wildlife in Zimbabwe and neighboring countries. He earned his PhD in plant production systems from Wageningen University (The Netherlands) and later obtained his Habilitation to Direct Research from the University of Montpellier (France).
 
-He has been involved in a number of research projects in Congo, Ethiopia, Kenya, Rwanda, Tanzania, Zambia, Malawi and Zimbabwe. He has more than 23 years of experience developing solutions with and for smallholders in sub-Saharan Africa.
+Baudron has been involved in numerous research projects across the Republic of Congo, Ethiopia, Kenya, Rwanda, Tanzania, Zambia, Malawi, and Zimbabwe. He has 24 years of experience developing solutions with and for smallholder farmers in sub-Saharan Africa.
+
+His research interests include farming systems research, sustainable intensification, the agriculture–biodiversity nexus, appropriate mechanization, participatory innovation development, agronomy-at-scale, and root and tuber crops. He is well published, with 92 peer-reviewed papers, 4412 citations, and an h-index of 36 in the Scopus database (as of 6 November 2025).
+
 
