@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Low-Cost Management and Landscape Agronomic Practices Approaches to Control
-  FAW
+title: Low-Cost Management and Landscape Agronomic Practices Approaches to Control FAW
 subtitle: ''
 summary: ''
 authors:
@@ -18,8 +17,8 @@ tags:
 - Biocontrol
 - Agroecology
 categories: []
-date: '2019-01-01'
-lastmod: 2021-01-03T22:24:04+02:00
+date: '22018-01-01'
+lastmod: 2018-01-01T22:24:04+02:00
 featured: false
 draft: false
 
@@ -37,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-03T20:24:03.537779Z'
+publishDate: '2018-01-01T20:24:03.537779Z'
 publication_types:
 - '6'
 abstract: ''
