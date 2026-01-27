@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-Frédéric Baudron is a Senior Scientist at the French Agricultural Research Centre for International Development (CIRAD) (since 2023). Since 2026, he is hosted at Mohammed VI Polytechnic University in Ben Guerir, Morocco. Prior to joining CIRAD, he served as Principal Scientist at the International Maize and Wheat Improvement Center (CIMMYT), based in Addis Ababa, Ethiopia (2011–2016), and later in Harare, Zimbabwe (2016–2023).
+Frédéric Baudron is a Senior Scientist at the French Agricultural Research Centre for International Development (CIRAD) (since 2023). He is currently hosted at Mohammed VI Polytechnic University (UM6P) in Ben Guerir, Morocco. Prior to joining CIRAD, he served as Principal Scientist at the International Maize and Wheat Improvement Center (CIMMYT), based in Addis Ababa, Ethiopia (2011–2016), and later in Harare, Zimbabwe (2016–2023).
 
 Trained as a tropical agronomist in France, he specialized in livestock science and began his career working on the interface between people – primarily smallholder farmers – and wildlife in Zimbabwe and neighboring countries. He holds a PhD in plant production systems from Wageningen University (The Netherlands) and a Habilitation to Direct Research from the University of Montpellier (France).
 
