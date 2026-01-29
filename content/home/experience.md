@@ -30,7 +30,7 @@ experience:
     date_start: '2026-01-05'
     date_end: ''
 
- - title: Systems Agronomist
+  - title: Systems Agronomist
     company: Cirad
     company_url: 'https://www.cirad.fr/en'
     location: Montpellier, France
