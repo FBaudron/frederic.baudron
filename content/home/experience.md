@@ -24,11 +24,18 @@ date_format: Jan 2006
 
 experience:
   - title: Systems Agronomist
+    company: Cirad/UM6P
+    company_url: 'https://www.um6p.ma/en/school-agriculture-fertilization-and-environmental-sciences'
+    location: Ben Guerir, Morocco
+    date_start: '2026-01-05'
+    date_end: ''
+
+ - title: Systems Agronomist
     company: Cirad
     company_url: 'https://www.cirad.fr/en'
     location: Montpellier, France
     date_start: '2023-09-01'
-    date_end: ''
+    date_end: '2026-01-04'
 
   - title: Systems Agronomist
     company: CIMMYT
