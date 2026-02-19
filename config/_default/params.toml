@@ -89,15 +89,15 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "frederic.baudon@cirad.fr"
-phone = "+33 (0) 4 67 61 71 67"
+phone = "+212 779 293 492"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "TA B 115/02 - Avenue Agropolis", city = "Montpellier cedex 5", postcode = "34398", country = "France", country_code = "FR"}
+address = {street = "CAES-UM6P, Lot 660, Hay Moulay Rachid", city = "Ben Guerir", postcode = "43150", country = "Morocco", country_code = "MA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "43.65067625813327", longitude = "3.8699917124785843"}
+coordinates = {latitude = "32.216556139907766", longitude = "-7.939914092255495"}
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
