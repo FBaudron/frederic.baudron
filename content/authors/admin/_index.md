@@ -77,4 +77,4 @@ Trained as a tropical agronomist in France, he specialized in livestock science 
 
 Baudron has been involved in numerous research and development projects across the Republic of Congo, Ethiopia, Kenya, Rwanda, Tanzania, Zambia, Malawi, and Zimbabwe, and brings over 24 years of experience developing solutions with and for smallholder farmers in sub-Saharan Africa.
 
-His research interests include farming systems research, sustainable intensification, the agriculture–biodiversity nexus, appropriate mechanization, participatory innovation development, agronomy-at-scale, and root and tuber crops. He is widely published, with 93 peer-reviewed papers, 4616 citations, and an h-index of 37 in the Scopus database (as of 27 January 2026).
+His research interests include farming systems research, sustainable intensification, the agriculture–biodiversity nexus, appropriate mechanization, participatory innovation development, agronomy-at-scale, and root and tuber crops. He is widely published, with 93 peer-reviewed papers, 4696 citations, and an h-index of 37 in the Scopus database (as of 20 February 2026).
