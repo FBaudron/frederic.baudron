@@ -12,7 +12,7 @@ tags:
 - Agroecology
 categories: []
 date: '2026-02-20'
-lastmod: 2026-02-20T22:23:31+02:00
+lastmod: 2026-02-20T00:00:00+02:00
 featured: true
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-02-20T20:23:30.727502Z'
+publishDate: '2026-02-20T00:00:30.727502Z'
 publication_types:
 - '2'
 abstract: "Balmford and colleagues recently argued that yield maximization and land sparing are key to reducing biodiversity loss. Complementing the response from Beillouin and colleagues, this paper critiques such yield-centred approaches from an agricultural and livelihood perspective, focusing on smallholder-dominated systems in sub-Saharan Africa. In such contexts, increasing yields is often unprofitable, not the primary objective of smallholders, erodes ecosystem services and generates environmental spill-overs if implemented in isolation. Efforts targeting high-yielding regions are also likely to fail to address food insecurity, and to exacerbate inequities instead. Based on these insights, principles for biodiversity-friendly farming that account for smallholder realities and mediate trade-offs between production/livelihoods and conservation are outlined."
