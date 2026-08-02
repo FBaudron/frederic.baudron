@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Are agroecological practices pro-poor? Evidence from smallholder farms in Zimbabwe'
+title: 'Comparative performance of two-wheel tractor-based direct seeding and ox-drawn plough crop establishment of maize and common bean in smallholder farming systems'
 subtitle: ''
 summary: ''
 authors:
@@ -21,7 +21,7 @@ tags:
 categories: []
 date: '2026-05-25'
 lastmod: 2026-05-25T22:23:31+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
