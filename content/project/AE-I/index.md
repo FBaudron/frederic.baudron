@@ -2,7 +2,7 @@
 date: "2022-01-01T00:00:00Z"
 external_link: "https://www.cgiar.org/initiative/31-transformational-agroecology-across-food-land-and-water-systems/"
 tags:
-- On-going
+- Past
 title: OneCGIAR Agroecology Initiative
 url_code: ""
 url_pdf: ""
